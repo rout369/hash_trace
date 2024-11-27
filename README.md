@@ -1,4 +1,5 @@
 # hash_trace
 
 
-![alt text](https://raw.githubusercontent.com/blackploit/hash-identifier/master/screenshots/hash_id_v1.2.png)
+
+![Screenshot (10)](https://github.com/user-attachments/assets/3bcf396a-9a8c-4fc4-bb41-b4401dbe2715)
